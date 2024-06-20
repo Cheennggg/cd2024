@@ -4,7 +4,8 @@ Title: About
 
 倉儲: <a href="https://github.com/Cheennggg/cd2024">https://github.com/mdecycu/cmsimde_site</a>
 
-網站: <a href=":https://cheennggg.github.io/cd2024/">https://mde.tw/cmsimde_site/</a>
+網站: <a 
+      href=":https://cheennggg.github.io/cd2024/">https://mde.tw/cmsimde_site/</a>
 
 簡報: <a href="https://cheennggg.github.io/cd2024/reveal">https://mde.tw/cmsimde_site/reveal</a>
 
